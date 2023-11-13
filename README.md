@@ -21,3 +21,7 @@ Implement the full transformation pipeline from object space to viewport space. 
 Implement the ability to change the camera model using the provided hotkeys in `DrawingModesA3.pde`.
 
 - **Zoom In/Out:** Modify how much the camera scales the image. Zooming in should make the image appear larger, and zooming out should make it appear smaller.
+
+### pictures  
+![part 1 and 2](images/Grids)
+![part 3](images/Objects)
